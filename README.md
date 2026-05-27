@@ -56,4 +56,14 @@ Anyone can contribute useful resources and interview materials here 👇:
 # Links
 Free Mock test - https://www.codehelp.in/dashboard/mock-tests
 
+DSA Master Sheet to crack Interviews:
+
+Syllabus:
+
+https://instabyte.io/p/dsa-master
+
+DSA top 100🔥: https://instabyte.io/p/interview-master-100
+
 DSA practice mt1 :- https://www.techinterviewhandbook.org/grind75/
+
+
