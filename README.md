@@ -41,6 +41,9 @@ Short introduction about the repository and its purpose.
 # 7. Practice Platforms
 - LeetCode
 - HackerRank
+  DS: https://www.hackerrank.com/domains/data-structures
+  Algorithm : https://www.hackerrank.com/domains/algorithms
+   
 - CodeChef
 - GeeksforGeeks
 
