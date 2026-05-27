@@ -3,7 +3,7 @@ Interview preparation, aptitude, coding practice, technical questions, and place
 
 # Interview Preparation Repository
 
-# 1. About
+# 1. About  
 Short introduction about the repository and its purpose.
 
 # 2. Aptitude Preparation
